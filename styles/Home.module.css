@@ -12,6 +12,10 @@
   text-decoration: none;
 }
 
+.fluid{
+max-width: 100% !important;
+height: auto;
+}
 .title a:hover,
 .title a:focus,
 .title a:active {
